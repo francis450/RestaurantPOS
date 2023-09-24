@@ -55,7 +55,7 @@ if (! defined('ENVIRONMENT')) {
 
 /*
  * ---------------------------------------------------------------
- * GRAB OUR CODEIGNITER INSTANCE
+ * GRAB OUR CODEIGNITER INSTANCE    
  * ---------------------------------------------------------------
  *
  * The CodeIgniter class contains the core functionality to make

@@ -30,8 +30,8 @@
 # DATABASE
 #--------------------------------------------------------------------
 
-# database.default.hostname = localhost
-# database.default.database = ci4
+ database.default.hostname = localhost
+ database.default.database = infodata_hotel
 # database.default.username = root
 # database.default.password = root
 # database.default.DBDriver = MySQLi
